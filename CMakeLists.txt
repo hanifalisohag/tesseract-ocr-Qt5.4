@@ -3,11 +3,8 @@
 
 cmake_minimum_required(VERSION 2.8)
 
-set(PROJECT_NAME tesseract)
+set(PROJECT_NAME Qt5.4tesseract)
 project(${PROJECT_NAME})
-
-#Training apps
-#add_subdirectory(training)
 
 #_-_-_-_-_-_SOME DIRECTORIES_-_-_-_-_-_
 set(OCR_DIR C:/ocrQt/)
